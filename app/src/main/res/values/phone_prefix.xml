@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phone_prefix">
+        <item>+86</item>
+        <item>+86</item>
+        <item>+86</item>
+        <item>+86</item>
+    </string-array>
+</resources>
